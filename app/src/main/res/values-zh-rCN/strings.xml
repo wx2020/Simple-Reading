@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简易阅读</string>
+    <string name="main_name">简易阅读</string>
+    <string name="action_settings">设置</string>
+    <string name="nav_header_subtitle">简单的阅读软件</string>
+    <string name="nav_header_title">简易阅读</string>
+    <string name="menu_send">发送反馈</string>
+    <string name="menu_share">分享</string>
+    <string name="news_ithome">IT之家</string>
+    <string name="news_qdaily">好奇心日报</string>
+    <string name="news_aifanr">爱范儿</string>
+    <string name="news_tmts">钛媒体</string>
+    <string name="nav_interaction">互动</string>
+</resources>
